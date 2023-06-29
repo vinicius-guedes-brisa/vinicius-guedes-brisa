@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @vinicius-guedes-brisa
+- 👀 I’m interested in Angular
